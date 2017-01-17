@@ -1,3 +1,11 @@
+# Gradle build tool hidden files
+.gradle/
+build/
+
+# IntelliJ project files
+.idea/
+*.iml
+
 *.class
 
 # Mobile Tools for Java (J2ME)
