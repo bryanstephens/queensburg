@@ -2,7 +2,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
 apply plugin: 'idea'
-applu plugin: 'eclipse-wtp'
+apply plugin: 'eclipse-wtp'
 
 mainClassName = 'com.queensburg.Main'
 
